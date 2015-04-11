@@ -1,0 +1,29 @@
+{
+  "name": "kalabox-plugin-static-port",
+  "description": "A simple plugin to add git commands to your apps.",
+  "keywords": [
+    "docker",
+    "kalabox",
+    "drupal"
+  ],
+  "version": "0.6.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reynoldsalec/kalabox-plugin-static-port"
+  },
+  "bugs": {
+    "email": "alec@kalamuna.com",
+    "url": "https://github.com/reynoldsalec/kalabox-plugin-static-port"
+  },
+  "dependencies": {
+    "lodash": "^3.6.0",
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "0.0.16",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-jscs": "~0.8.1",
+    "jshint-stylish": "~1.0.0",
+    "matchdep": "^0.3.0"
+  }
+}
